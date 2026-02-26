@@ -1,2 +1,2 @@
 # loreson-emacs-configuration
-My emacs config.
+A pretty standard Vanilla Emacs config.
