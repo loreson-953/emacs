@@ -147,5 +147,3 @@
   ("C-c g" . magit-status)
   :init
   (use-package with-editor :ensure t)) ;; supposedly improves commit message editing
-
-;; its neat, if you're super extra you can use it as a window manager but I decided I dont like it
