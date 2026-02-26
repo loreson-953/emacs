@@ -1,0 +1,5 @@
+# Only this shit
+
+!.gitignore
+!README.md
+!init.el
