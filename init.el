@@ -22,7 +22,7 @@
 (line-number-mode +1)
 (global-display-line-numbers-mode 1)
 (set-face-attribute 'mode-line nil :height 200)
-
+					
 ;; Themeing
 (use-package gruvbox-theme
   :ensure t

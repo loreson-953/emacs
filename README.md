@@ -1,1 +1,1 @@
-This should be everything for Mayor.
+The configuration for the "Mayor" laptop.
